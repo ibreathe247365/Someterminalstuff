@@ -32,3 +32,6 @@ https://stackoverflow.com/questions/61110603/how-to-set-up-working-x11-forwardin
 vim save and quit: shift +ZZ <br>
 vim quit without saving: shift +ZQ
 <br>
+
+For github credentials:
+https://nickjanetakis.com/blog/signing-and-verifying-git-commits-on-the-command-line-and-github <br>
