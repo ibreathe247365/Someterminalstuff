@@ -26,3 +26,9 @@ https://nickjanetakis.com/blog/creating-and-managing-a-gpg-key-pair
 https://skeptric.com/wsl2-xserver/#:~:text=Press%20the%20Windows%20Start%20Button,%22Add%20Rule...%22
 
 https://stackoverflow.com/questions/61110603/how-to-set-up-working-x11-forwarding-on-wsl2
+
+
+<br>
+vim save and quit: shift +ZZ <br>
+vim quit without saving: shift +ZQ
+<br>
