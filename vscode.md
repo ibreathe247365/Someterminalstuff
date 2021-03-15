@@ -7,5 +7,6 @@ Just use the dot files from https://github.com/nickjj/dotfiles
 Explore .vimrc and .vim/snippets (create if doesnt exist)<br>
 
 ![image](https://user-images.githubusercontent.com/76894659/111193133-d9033780-85df-11eb-9460-b4dac6e31577.png)
+![image](https://user-images.githubusercontent.com/76894659/111193601-5464e900-85e0-11eb-9f26-5c5fcb2519e0.png)
 
 write your snippets here!
