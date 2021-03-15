@@ -35,3 +35,12 @@ vim quit without saving: shift +ZQ
 
 For github credentials:
 https://nickjanetakis.com/blog/signing-and-verifying-git-commits-on-the-command-line-and-github <br>
+
+
+windows terminal
+https://dev.to/anupa/beautify-your-windows-terminal-1la8
+
+
+![image](https://user-images.githubusercontent.com/76894659/111202742-3c926280-85ea-11eb-9acd-569f2a395353.png)
+
+![image](https://user-images.githubusercontent.com/76894659/111202758-3f8d5300-85ea-11eb-8b63-3008df7ea7f4.png)
