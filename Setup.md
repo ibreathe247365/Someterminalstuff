@@ -44,3 +44,9 @@ https://dev.to/anupa/beautify-your-windows-terminal-1la8
 ![image](https://user-images.githubusercontent.com/76894659/111202742-3c926280-85ea-11eb-9acd-569f2a395353.png)
 
 ![image](https://user-images.githubusercontent.com/76894659/111202758-3f8d5300-85ea-11eb-8b63-3008df7ea7f4.png)
+
+use ssh keys for github-auth
+<br>
+![image_12](https://user-images.githubusercontent.com/76894659/111297585-c6d2d900-8673-11eb-87b9-e5a6c567ae3d.png)
+
+go to /c/ or /d/ from terminal!
