@@ -9,3 +9,4 @@ font: Dersu Uzala Brush
 This is pretty useful for testing grub themes: https://github.com/hartwork/grub2-theme-preview
 
 credit:u/semimqmo
+from reddit
