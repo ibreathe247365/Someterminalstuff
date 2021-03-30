@@ -10,3 +10,6 @@ Explore .vimrc and .vim/snippets (create if doesnt exist)<br>
 ![image](https://user-images.githubusercontent.com/76894659/111193601-5464e900-85e0-11eb-9f26-5c5fcb2519e0.png)
 
 write your snippets here!
+:sort
+:sort!(reverse sort)
+:sort u(removes duplicates)
